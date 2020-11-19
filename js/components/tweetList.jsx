@@ -3,7 +3,7 @@ var TweetList = React.createClass({
   getInitialState: function() {
     return {
       tweetLength: 280,
-      numberSplit: ") ",
+      numberSplit: "/ ",
       params: {
         text: "",
         showNumber: false
