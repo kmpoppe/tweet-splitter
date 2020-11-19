@@ -1,12 +1,12 @@
 {
   "name": "tweet-splitter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
     "dburgos <hola@davidburgosonline.com>"
   ],
   "main": "index.html",
   "license": "MIT",
-  "homepage": "https://dburgos.github.io/tweet-splitter",
+  "homepage": "https://kmpoppe.github.io/tweet-splitter",
   "dependencies": {
     "react": "~0.13.3",
     "bootstrap": "~3.3.4"
